@@ -1,6 +1,6 @@
 from prompt import Prompt
 from hf_vlm_prompter import HuggingFaceVLM
-from video_to_image import video_to_stacked_image
+from vertical_image_stacking import video_to_stacked_image
 # import requests
 
 def main():
