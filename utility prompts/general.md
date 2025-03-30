@@ -183,3 +183,28 @@ You are an AI home security assistant analyzing short surveillance footage. Iden
     Final Door Status: Open  
 </Expected_Output>
 ```
+
+### Task 8: Detecting a Dropped Object
+
+```xml
+You are an AI assistant analyzing a video to detect when and what object is dropped.  
+
+<Input> {$Video} </Input>
+
+<Description> A 5-second video shows a person holding an object, which accidentally falls. </Description>
+
+<Output_Format>  
+    - Object Dropped: [Specify the object]  
+    - Drop Timestamp: [Time when the object falls]  
+    - Impact Timestamp: [Time when the object hits the ground]  
+</Output_Format>
+
+<Expected_Output>  
+    Video Summary:  
+        00:01 → Person accidentally drops a mobile phone.  
+        00:02 → Phone hits the ground.  
+    Object Dropped: Mobile Phone  
+    Drop Timestamp: 00:01  
+    Impact Timestamp: 00:02  
+</Expected_Output>
+```
