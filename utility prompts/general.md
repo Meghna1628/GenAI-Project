@@ -208,3 +208,194 @@ You are an AI assistant analyzing a video to detect when and what object is drop
     Impact Timestamp: 00:02  
 </Expected_Output>
 ```
+### Task 9: Detecting a Light Turning On or Off
+
+```xml
+You are an AI home automation assistant analyzing a video for changes in lighting conditions.  
+
+<Input> {$Video} </Input>
+
+<Description> A 5-second home surveillance video capturing a room with a light source. </Description>
+
+<Output_Format>  
+    - Initial Light Status: [On/Off]  
+    - Action Detected: [Switch Pressed/No Action]  
+    - Final Light Status: [On/Off]  
+    - Timestamps: Mention when the change occurred.  
+</Output_Format>
+
+<Expected_Output>  
+    Video Summary:  
+        00:00 - 00:02 → Room is dark (Light Off).  
+        00:03 → Switch Pressed.  
+        00:04 - 00:05 → Room is bright (Light On).  
+    Initial Light Status: Off  
+    Action Detected: Switch Pressed  
+    Final Light Status: On  
+</Expected_Output>
+```
+### Task 10: Understanding Causality 
+
+```xml
+<Input> {$Video} </Input>
+
+<Description> A person spills water on the floor, then another person slips and falls. </Description>
+
+<Question> Why did the person fall? </Question>
+
+<Output_Format>  
+    - Answer: [Short Explanation]  
+</Output_Format>
+
+<Expected_Output>  
+    Answer: The person slipped because water was spilled on the floor.  
+</Expected_Output>
+```
+
+### Task 11: Tracking fast moving objects
+
+```xml
+<Input> {$Video} </Input>
+
+<Description> A magician moves a ball between three cups very quickly. </Description>
+
+<Question> Where is the ball now? </Question>
+
+<Output_Format>  
+    - Answer: [Cup Position]  
+</Output_Format>
+
+<Expected_Output>  
+    Answer: Under the middle cup  
+</Expected_Output>
+```
+
+### Taks 12: Multiple People Interaction
+
+```xml
+<Input> {$Video} </Input>
+
+<Description> A person hands a book to another person, who puts it on a shelf. </Description>
+
+<Question> Who placed the book on the shelf? </Question>
+
+<Output_Format>  
+    - Answer: [Person A/Person B]  
+</Output_Format>
+
+<Expected_Output>  
+    Answer: Person B  
+</Expected_Output>
+```
+
+### Task 13: Detecting Actions in Crowded Scenes
+
+```xml
+<Input> {$Video} </Input>
+
+<Description> A person in a red shirt picks up a bag in a crowded market. </Description>
+
+<Question> What did the person in the red shirt do? </Question>
+
+<Output_Format>  
+    - Answer: [Action Description]  
+</Output_Format>
+
+<Expected_Output>  
+    Answer: Picked up a bag.  
+</Expected_Output>
+```
+
+### Task 14: Missing ingredients in cooking
+
+```xml
+<Input> {$Video} </Input>
+
+<Description> A person prepares a cup of coffee by adding hot water to a cup, followed by sugar and stirring. However, no coffee powder was added. </Description>
+
+<Question> Is any ingredient missing from the coffee preparation? </Question>
+
+<Output_Format>  
+    - Answer: [Yes/No]  
+    - Missing_Ingredient: [Ingredient Name]  
+</Output_Format>
+
+<Expected_Output>  
+    Answer: Yes  
+    Missing_Ingredient: Coffee powder  
+</Expected_Output>
+```
+
+### Task 15: Identifying the First Object to Fall in a Chain Reaction
+
+```xml
+<Input> {$Video} </Input>
+
+<Description> A domino setup where multiple objects (a ball, a book, and a bottle) are involved. A book falls first, hitting a ball, which then knocks over a bottle. </Description>
+
+<Question> Which object fell first? </Question>
+
+<Output_Format>
+    - Answer: [Object Name]  
+    - Timestamp: [Time when the object fell]  
+</Output_Format>
+
+<Expected_Output>  
+    Answer: Book  
+    Timestamp: 00:02  
+</Expected_Output>
+```
+
+### Task 16: Who Dropped the Wallet?
+
+```xml
+<Input> {$Video} </Input>
+
+<Description> Person A walks from left to right. A wallet falls. Person B, walking in the opposite direction, picks it up. </Description>
+
+<Question> Who dropped the wallet? </Question>
+
+<Output_Format>  
+    - Answer: [Person Description]  
+</Output_Format>
+
+<Expected_Output>  
+    Answer: Person A  
+</Expected_Output>
+```
+
+### Task 17: Who Scored the Goal?
+
+```xml
+<Input> {$Video} </Input>
+
+<Description> Two players attempt to score a goal. The ball deflects and goes in. </Description>
+
+<Question> Who scored the goal? </Question>
+
+<Expected_Output> The last player to touch the ball. </Expected_Output>
+```
+
+### Task 18: Identical Twins Switching Places
+
+```xml
+<Input> {$Video} </Input>
+
+<Description> Two identical twins are talking. One leaves, and the other takes their place. </Description>
+
+<Question> Is this the same person as before? </Question>
+
+<Expected_Output> "No, they switched." </Expected_Output>
+```
+
+### Task 19: Who Crossed the Finish Line First?
+
+```xml
+<Input> {$Video} </Input>
+
+<Description> Three runners approach the finish line. They cross at nearly the same time. </Description>
+
+<Question> Who won the race? </Question>
+
+<Expected_Output> "The runner whose body crossed first." </Expected_Output>
+```
