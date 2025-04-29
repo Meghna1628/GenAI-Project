@@ -399,3 +399,9 @@ You are an AI home automation assistant analyzing a video for changes in lightin
 
 <Expected_Output> "The runner whose body crossed first." </Expected_Output>
 ```
+
+### Task 20: Moving a chess coin 
+Testing if model is able to identify the coin moved by the player.
+
+### Task 21: Detecting action in crowded scene
+Identifying what a person is wearing who got down from the car first.
