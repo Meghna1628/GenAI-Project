@@ -1,0 +1,127 @@
+{
+    "frame_0000.jpg": [
+        "LABEL_184",
+        "LABEL_199"
+    ],
+    "frame_0001.jpg": [
+        "vase"
+    ],
+    "frame_0002.jpg": [
+        "LABEL_184"
+    ],
+    "frame_0003.jpg": [
+        "LABEL_187",
+        "knife",
+        "LABEL_184",
+        "person",
+        "LABEL_193"
+    ],
+    "frame_0004.jpg": [
+        "elephant",
+        "LABEL_187"
+    ],
+    "frame_0005.jpg": [
+        "LABEL_184",
+        "LABEL_187"
+    ],
+    "frame_0006.jpg": [
+        "person",
+        "LABEL_193",
+        "apple"
+    ],
+    "frame_0007.jpg": [
+        "LABEL_184",
+        "LABEL_187"
+    ],
+    "frame_0008.jpg": [
+        "bowl",
+        "LABEL_193",
+        "person"
+    ],
+    "frame_0009.jpg": [
+        "LABEL_187"
+    ],
+    "frame_0010.jpg": [
+        "LABEL_184",
+        "LABEL_187",
+        "bottle"
+    ],
+    "frame_0011.jpg": [
+        "cup",
+        "person",
+        "hot dog",
+        "LABEL_189",
+        "LABEL_184"
+    ],
+    "frame_0012.jpg": [
+        "LABEL_191",
+        "LABEL_187",
+        "person",
+        "LABEL_184",
+        "sandwich"
+    ],
+    "frame_0013.jpg": [
+        "person",
+        "LABEL_193",
+        "LABEL_184",
+        "fire hydrant"
+    ],
+    "frame_0014.jpg": [
+        "LABEL_187",
+        "LABEL_190",
+        "person",
+        "LABEL_184",
+        "donut"
+    ],
+    "frame_0015.jpg": [
+        "LABEL_184"
+    ],
+    "frame_0016.jpg": [
+        "LABEL_193"
+    ],
+    "frame_0017.jpg": [
+        "LABEL_193",
+        "LABEL_184",
+        "LABEL_187",
+        "person"
+    ],
+    "frame_0018.jpg": [
+        "pizza",
+        "LABEL_187",
+        "LABEL_184",
+        "person",
+        "cat",
+        "water-other",
+        "LABEL_193"
+    ],
+    "frame_0019.jpg": [
+        "pizza",
+        "LABEL_184",
+        "LABEL_187",
+        "LABEL_193"
+    ],
+    "frame_0020.jpg": [
+        "person",
+        "LABEL_193",
+        "pizza"
+    ],
+    "frame_0021.jpg": [
+        "cake",
+        "person",
+        "LABEL_187",
+        "knife"
+    ],
+    "frame_0022.jpg": [
+        "cake",
+        "LABEL_187",
+        "person",
+        "water-other",
+        "donut"
+    ],
+    "frame_0023.jpg": [
+        "cake",
+        "person",
+        "LABEL_184",
+        "LABEL_196"
+    ]
+}
