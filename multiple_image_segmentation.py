@@ -51,13 +51,13 @@ for filename in sorted(os.listdir(frames_folder)):
 
             # Save the detected objects for this image
             objects_detected[filename] = list(detected_labels)
-            print(f"✅ {filename}: {', '.join(detected_labels)}")
+            print(f" {filename}: {', '.join(detected_labels)}")
 
         except Exception as e:
-            print(f"❌ Failed to process {filename}: {e}")
+            print(f" Failed to process {filename}: {e}")
 
 # Save the results to a JSON file
 with open(output_json, 'w') as f:
     json.dump(objects_detected, f, indent=4)
 
-print(f"\n📝 Object detection results saved to '{output_json}'")
+print(f"\n Object detection results saved to '{output_json}'")
