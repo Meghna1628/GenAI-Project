@@ -39,7 +39,7 @@ id2label = model.config.id2label
 segments_info = result["segments_info"]
 
 if not segments_info:
-    print("❌ No objects detected.")
+    print("No objects detected.")
 else:
     # Color map
     import random
