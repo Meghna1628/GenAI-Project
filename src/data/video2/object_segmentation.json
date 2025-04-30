@@ -1,0 +1,22 @@
+{
+    "frame_0000.jpg": [
+        "cake",
+        "bowl",
+        "LABEL_189",
+        "person",
+        "LABEL_199",
+        "spoon",
+        "dining table"
+    ],
+    "frame_0001.jpg": [
+        "person",
+        "LABEL_199",
+        "LABEL_189",
+        "bowl"
+    ],
+    "frame_0002.jpg": [
+        "cup",
+        "person",
+        "LABEL_189"
+    ]
+}
