@@ -9,8 +9,8 @@ feature_extractor = DetrFeatureExtractor.from_pretrained("facebook/detr-resnet-5
 model = DetrForSegmentation.from_pretrained("facebook/detr-resnet-50-panoptic")
 
 # Path to your frames folder
-frames_folder = "/Users/meghnareddy/Desktop/LLM_Project/src/data/video10/frames" 
-output_json = "/Users/meghnareddy/Desktop/LLM_Project/src/data/video10/object_segmentation.json" 
+frames_folder = "/src/data/video10/frames" 
+output_json = "/src/data/video10/object_segmentation.json" 
 
 # Dictionary to store the results
 objects_detected = {}
