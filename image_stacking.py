@@ -43,7 +43,7 @@ def stack_frames_from_folder(frames_folder, output_image_path):
     ])
 
     if not frame_files:
-        print("❌ No image frames found in folder.")
+        print(" No image frames found in folder.")
         return
 
     stacked_frames = []
@@ -53,7 +53,7 @@ def stack_frames_from_folder(frames_folder, output_image_path):
         frame = cv2.imread(image_path)
 
         if frame is None:
-            print(f"⚠️ Skipping invalid image: {filename}")
+            print(f"Skipping invalid image: {filename}")
             continue
 
         # Add filename label and border
