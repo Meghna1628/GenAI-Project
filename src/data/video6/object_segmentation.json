@@ -1,0 +1,74 @@
+{
+    "frame_0000.jpg": [
+        "LABEL_196",
+        "bowl",
+        "person"
+    ],
+    "frame_0001.jpg": [
+        "spoon",
+        "LABEL_189",
+        "bowl",
+        "LABEL_199"
+    ],
+    "frame_0002.jpg": [
+        "bowl",
+        "person",
+        "cup",
+        "dining table",
+        "LABEL_189"
+    ],
+    "frame_0003.jpg": [
+        "LABEL_184",
+        "bowl",
+        "person"
+    ],
+    "frame_0004.jpg": [
+        "LABEL_189"
+    ],
+    "frame_0005.jpg": [
+        "LABEL_189",
+        "banana"
+    ],
+    "frame_0006.jpg": [
+        "cup",
+        "LABEL_189"
+    ],
+    "frame_0007.jpg": [
+        "cup",
+        "LABEL_189",
+        "banana"
+    ],
+    "frame_0008.jpg": [
+        "cup",
+        "LABEL_189",
+        "LABEL_199",
+        "toothbrush"
+    ],
+    "frame_0009.jpg": [
+        "cup",
+        "LABEL_196",
+        "counter",
+        "person"
+    ],
+    "frame_0010.jpg": [
+        "cup"
+    ],
+    "frame_0011.jpg": [
+        "vase",
+        "potted plant",
+        "cup",
+        "LABEL_189",
+        "LABEL_199"
+    ],
+    "frame_0012.jpg": [
+        "vase"
+    ],
+    "frame_0013.jpg": [
+        "cup",
+        "LABEL_189"
+    ],
+    "frame_0014.jpg": [
+        "LABEL_189",
+        "person"
+    ]
+}
