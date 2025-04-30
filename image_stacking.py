@@ -71,7 +71,7 @@ def stack_frames_from_folder(frames_folder, output_image_path):
     # Stack vertically
     stacked_image = np.vstack(resized_frames)
     cv2.imwrite(output_image_path, stacked_image)
-    print(f"✅ Stacked image saved at: {output_image_path}")
+    print(f" Stacked image saved at: {output_image_path}")
 
     return output_image_path
 
