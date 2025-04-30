@@ -24,9 +24,9 @@ for filename in sorted(os.listdir(frames_folder)):
             out = model.generate(**inputs)
             caption = processor.decode(out[0], skip_special_tokens=True)
             captions[filename] = caption
-            print(f"✅ {filename}: {caption}")
+            print(f"{filename}: {caption}")
         except Exception as e:
-            print(f"❌ Failed to process {filename}: {e}")
+            print(f" Failed to process {filename}: {e}")
 
 # Save to JSON file
 with open(output_json, 'w') as f:
