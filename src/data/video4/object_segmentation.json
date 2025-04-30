@@ -1,0 +1,38 @@
+{
+    "frame_0000.jpg": [
+        "person"
+    ],
+    "frame_0001.jpg": [
+        "dining table"
+    ],
+    "frame_0002.jpg": [
+        "LABEL_189"
+    ],
+    "frame_0003.jpg": [
+        "cake",
+        "LABEL_189"
+    ],
+    "frame_0004.jpg": [
+        "sink",
+        "spoon"
+    ],
+    "frame_0005.jpg": [
+        "LABEL_189",
+        "spoon"
+    ],
+    "frame_0006.jpg": [
+        "bowl"
+    ],
+    "frame_0007.jpg": [
+        "bowl",
+        "LABEL_189"
+    ],
+    "frame_0008.jpg": [
+        "orange",
+        "LABEL_196"
+    ],
+    "frame_0009.jpg": [
+        "LABEL_196",
+        "LABEL_189"
+    ]
+}
