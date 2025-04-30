@@ -1,0 +1,55 @@
+{
+    "frame_0000.jpg": [
+        "person",
+        "banana",
+        "snow",
+        "car"
+    ],
+    "frame_0001.jpg": [
+        "bowl",
+        "person",
+        "knife",
+        "LABEL_196"
+    ],
+    "frame_0002.jpg": [
+        "person",
+        "LABEL_184",
+        "bowl"
+    ],
+    "frame_0003.jpg": [
+        "bowl",
+        "person",
+        "apple",
+        "LABEL_196"
+    ],
+    "frame_0004.jpg": [
+        "person",
+        "LABEL_184"
+    ],
+    "frame_0005.jpg": [
+        "person",
+        "LABEL_184",
+        "spoon"
+    ],
+    "frame_0006.jpg": [
+        "apple"
+    ],
+    "frame_0007.jpg": [
+        "person",
+        "LABEL_184"
+    ],
+    "frame_0008.jpg": [
+        "person",
+        "LABEL_184",
+        "cup"
+    ],
+    "frame_0009.jpg": [
+        "person",
+        "snow",
+        "cup"
+    ],
+    "frame_0010.jpg": [
+        "person",
+        "cake"
+    ]
+}
