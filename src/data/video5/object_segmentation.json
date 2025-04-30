@@ -1,0 +1,52 @@
+{
+    "frame_0000.jpg": [
+        "dining table",
+        "cup",
+        "LABEL_189",
+        "LABEL_199",
+        "vase"
+    ],
+    "frame_0001.jpg": [
+        "cup",
+        "LABEL_189",
+        "LABEL_199"
+    ],
+    "frame_0002.jpg": [
+        "LABEL_189",
+        "LABEL_199"
+    ],
+    "frame_0003.jpg": [
+        "dining table",
+        "LABEL_189",
+        "LABEL_199"
+    ],
+    "frame_0004.jpg": [
+        "dining table",
+        "LABEL_189",
+        "LABEL_199"
+    ],
+    "frame_0005.jpg": [
+        "dining table",
+        "cup",
+        "LABEL_189",
+        "LABEL_199",
+        "donut"
+    ],
+    "frame_0006.jpg": [
+        "dining table",
+        "LABEL_189",
+        "LABEL_199"
+    ],
+    "frame_0007.jpg": [
+        "LABEL_189",
+        "LABEL_199"
+    ],
+    "frame_0008.jpg": [
+        "cup",
+        "LABEL_189"
+    ],
+    "frame_0009.jpg": [
+        "cup",
+        "LABEL_189"
+    ]
+}
