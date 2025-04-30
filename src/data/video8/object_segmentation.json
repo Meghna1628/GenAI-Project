@@ -1,0 +1,60 @@
+{
+    "frame_0000.jpg": [
+        "dining table",
+        "cup",
+        "bowl",
+        "spoon",
+        "LABEL_189"
+    ],
+    "frame_0001.jpg": [
+        "banana",
+        "LABEL_189",
+        "bowl"
+    ],
+    "frame_0002.jpg": [
+        "banana",
+        "LABEL_189",
+        "bowl"
+    ],
+    "frame_0003.jpg": [
+        "banana",
+        "LABEL_189",
+        "bowl"
+    ],
+    "frame_0004.jpg": [
+        "LABEL_189",
+        "cake"
+    ],
+    "frame_0005.jpg": [
+        "bowl"
+    ],
+    "frame_0006.jpg": [
+        "person",
+        "cup",
+        "LABEL_195",
+        "bowl"
+    ],
+    "frame_0007.jpg": [
+        "person",
+        "cup",
+        "bowl"
+    ],
+    "frame_0008.jpg": [
+        "dining table",
+        "banana",
+        "bowl"
+    ],
+    "frame_0009.jpg": [
+        "bowl",
+        "banana",
+        "apple"
+    ],
+    "frame_0010.jpg": [
+        "dining table",
+        "cup"
+    ],
+    "frame_0011.jpg": [
+        "cup",
+        "bowl"
+    ]
+}
