@@ -8,10 +8,10 @@ processor = BlipProcessor.from_pretrained("Salesforce/blip-image-captioning-larg
 model = BlipForConditionalGeneration.from_pretrained("Salesforce/blip-image-captioning-large")
 
 # Path to your frames folder
-frames_folder = "/Users/meghnareddy/Desktop/LLM_Project/src/data/video10/frames"
+frames_folder = "/src/data/video10/frames"
 
 # Output JSON file
-output_json = "/Users/meghnareddy/Desktop/LLM_Project/src/data/video10/captions.json"
+output_json = "/src/data/video10/captions.json"
 captions = {}
 
 # Loop over all frame images
