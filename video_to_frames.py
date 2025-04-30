@@ -29,4 +29,4 @@ def extract_frames(video_path, output_folder, frame_rate):
     print(f"Saved {saved} frames to '{output_folder}'")
 
 # Example usage
-extract_frames("/Users/meghnareddy/Desktop/LLM_Project/src/data/video10/cooking10.mp4", "/Users/meghnareddy/Desktop/LLM_Project/src/data/video10/frames", frame_rate=0.4)  
+extract_frames("/src/data/video10/cooking10.mp4", "/Users/meghnareddy/Desktop/LLM_Project/src/data/video10/frames", frame_rate=0.4)  
