@@ -1,0 +1,134 @@
+{
+    "frame_0000.jpg": [
+        "LABEL_196",
+        "cup",
+        "person",
+        "knife"
+    ],
+    "frame_0001.jpg": [
+        "person",
+        "knife"
+    ],
+    "frame_0002.jpg": [
+        "person",
+        "knife",
+        "LABEL_190"
+    ],
+    "frame_0003.jpg": [
+        "LABEL_196",
+        "person",
+        "oven",
+        "knife"
+    ],
+    "frame_0004.jpg": [
+        "orange",
+        "person",
+        "spoon",
+        "LABEL_189",
+        "bowl"
+    ],
+    "frame_0005.jpg": [
+        "orange",
+        "person",
+        "fork",
+        "LABEL_189",
+        "bowl"
+    ],
+    "frame_0006.jpg": [
+        "oven",
+        "carrot",
+        "person",
+        "bowl",
+        "LABEL_196"
+    ],
+    "frame_0007.jpg": [
+        "LABEL_196",
+        "person",
+        "fork"
+    ],
+    "frame_0008.jpg": [
+        "LABEL_189",
+        "LABEL_199",
+        "person",
+        "LABEL_190"
+    ],
+    "frame_0009.jpg": [
+        "person",
+        "sink",
+        "toothbrush"
+    ],
+    "frame_0010.jpg": [
+        "person",
+        "LABEL_199",
+        "LABEL_195",
+        "window-other"
+    ],
+    "frame_0011.jpg": [
+        "hot dog",
+        "person",
+        "bowl",
+        "chair",
+        "LABEL_190"
+    ],
+    "frame_0012.jpg": [
+        "oven",
+        "person",
+        "spoon",
+        "bowl",
+        "LABEL_190"
+    ],
+    "frame_0013.jpg": [
+        "knife",
+        "carrot",
+        "pizza",
+        "person",
+        "LABEL_196"
+    ],
+    "frame_0014.jpg": [
+        "bed"
+    ],
+    "frame_0015.jpg": [
+        "person",
+        "LABEL_199",
+        "LABEL_195",
+        "LABEL_186"
+    ],
+    "frame_0016.jpg": [
+        "carrot",
+        "person",
+        "LABEL_196"
+    ],
+    "frame_0017.jpg": [
+        "LABEL_196",
+        "person",
+        "oven",
+        "knife"
+    ],
+    "frame_0018.jpg": [
+        "pizza",
+        "person",
+        "oven",
+        "knife"
+    ],
+    "frame_0019.jpg": [
+        "pizza",
+        "person",
+        "oven"
+    ],
+    "frame_0020.jpg": [
+        "LABEL_196",
+        "person"
+    ],
+    "frame_0021.jpg": [
+        "person",
+        "bowl",
+        "LABEL_195",
+        "spoon"
+    ],
+    "frame_0022.jpg": [
+        "LABEL_196",
+        "person",
+        "oven",
+        "knife"
+    ]
+}
