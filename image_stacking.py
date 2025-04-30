@@ -76,7 +76,7 @@ def stack_frames_from_folder(frames_folder, output_image_path):
     return output_image_path
 
 # === USAGE ===
-frames_folder = "/Users/meghnareddy/Desktop/LLM_Project/src/data/video10/frames"  # Replace with your folder path
-output_image_path = "/Users/meghnareddy/Desktop/LLM_Project/src/data/video10/stacked_frames.jpg"
+frames_folder = "/src/data/video10/frames"  # Replace with your folder path
+output_image_path = "/src/data/video10/stacked_frames.jpg"
 
 stack_frames_from_folder(frames_folder, output_image_path)
