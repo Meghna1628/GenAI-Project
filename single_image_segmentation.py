@@ -10,7 +10,7 @@ from transformers import DetrFeatureExtractor, DetrForSegmentation
 from transformers.models.detr.feature_extraction_detr import rgb_to_id
 
 # === Step 1: Load Local Image ===
-image_path = "/Users/meghnareddy/Desktop/LLM_Project/src/data/video1/frames/frame_0000.jpg"  # Replace with your image path
+image_path = "/src/data/video1/frames/frame_0000.jpg"  # Replace with your image path
 assert os.path.exists(image_path), f"Image not found: {image_path}"
 image = Image.open(image_path).convert("RGB")
 
