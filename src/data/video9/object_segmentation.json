@@ -1,0 +1,115 @@
+{
+    "frame_0000.jpg": [
+        "person",
+        "dining table",
+        "bowl",
+        "LABEL_189",
+        "cake"
+    ],
+    "frame_0001.jpg": [
+        "person",
+        "pizza",
+        "bowl",
+        "spoon",
+        "LABEL_196"
+    ],
+    "frame_0002.jpg": [
+        "person"
+    ],
+    "frame_0003.jpg": [
+        "bowl"
+    ],
+    "frame_0004.jpg": [
+        "person",
+        "broccoli",
+        "spoon",
+        "bowl"
+    ],
+    "frame_0005.jpg": [
+        "person",
+        "pizza",
+        "dining table",
+        "fork",
+        "LABEL_196"
+    ],
+    "frame_0006.jpg": [
+        "person",
+        "dining table",
+        "bowl",
+        "spoon",
+        "cup",
+        "LABEL_189"
+    ],
+    "frame_0007.jpg": [
+        "person",
+        "LABEL_189",
+        "pizza",
+        "knife"
+    ],
+    "frame_0008.jpg": [
+        "bowl",
+        "cake"
+    ],
+    "frame_0009.jpg": [
+        "person",
+        "LABEL_196"
+    ],
+    "frame_0010.jpg": [
+        "person",
+        "sandwich"
+    ],
+    "frame_0011.jpg": [
+        "person",
+        "pizza",
+        "LABEL_189",
+        "dining table"
+    ],
+    "frame_0012.jpg": [
+        "dining table",
+        "bowl",
+        "person",
+        "spoon",
+        "LABEL_189"
+    ],
+    "frame_0013.jpg": [
+        "bowl",
+        "LABEL_189",
+        "LABEL_196"
+    ],
+    "frame_0014.jpg": [
+        "bowl",
+        "LABEL_189",
+        "donut",
+        "person"
+    ],
+    "frame_0015.jpg": [
+        "broccoli",
+        "sandwich",
+        "bowl"
+    ],
+    "frame_0016.jpg": [
+        "person",
+        "bowl",
+        "LABEL_196"
+    ],
+    "frame_0017.jpg": [
+        "person",
+        "spoon",
+        "bowl"
+    ],
+    "frame_0018.jpg": [
+        "bowl"
+    ],
+    "frame_0019.jpg": [
+        "broccoli",
+        "bowl",
+        "person",
+        "LABEL_189",
+        "LABEL_196"
+    ],
+    "frame_0020.jpg": [
+        "person",
+        "carrot",
+        "bowl"
+    ]
+}
